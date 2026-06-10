@@ -1,0 +1,6 @@
+{
+  "name": "Sabor Express Delivery",
+  "description": "Cardápio digital apetitoso e delivery completo de lanches, açaí, combos, porções e bebidas com direcionamento direto para pedidos no WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
